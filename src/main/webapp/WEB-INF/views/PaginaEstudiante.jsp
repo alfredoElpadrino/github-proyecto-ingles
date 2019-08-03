@@ -8,7 +8,7 @@
 </head>
 <body>
   
-  Datos del estudiante: 
+  Datos del estudiante de la primaria: 
     
   Nombre: ${nombre}
   
