@@ -7,11 +7,14 @@
 <title>ESTUDIANTE</title>
 </head>
 <body>
+  
+  Datos del estudiante: 
+    
   Nombre: ${nombre}
   
   Calificacion: ${cali}
   
-  boleta: ${boleta}
+  Boleta: ${boleta}
   
 </body>
 </html>
